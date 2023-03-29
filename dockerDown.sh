@@ -1,0 +1,1 @@
+docker-compose -f ~/Projects/JulieTestProject/docker-compose.yml down
